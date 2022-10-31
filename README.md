@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jafabre95@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GfQFlvUeOSD525Ay4eIC9N-GKbHJhMJ4_Vb70_vzqoA/edit?usp=sharing](https://docs.google.com/document/d/1GfQFlvUeOSD525Ay4eIC9N-GKbHJhMJ4_Vb70_vzqoA/edit?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1GfQFlvUeOSD525Ay4eIC9N-GKbHJhMJ4_Vb70_vzqoA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
