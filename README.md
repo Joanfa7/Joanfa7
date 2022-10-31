@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **jafabre95@gmail.com**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/1GfQFlvUeOSD525Ay4eIC9N-GKbHJhMJ4_Vb70_vzqoA/edit?usp=sharing](https://docs.google.com/document/d/1GfQFlvUeOSD525Ay4eIC9N-GKbHJhMJ4_Vb70_vzqoA/edit?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jose-andres-fabre-b90a89221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-andres-fabre-b90a89221" height="30" width="40" /></a>
