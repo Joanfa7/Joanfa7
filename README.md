@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React, 1155 tokens**
 
+- 🧑‍💻 I'm interested in **Web3, Machine Learning, Indoor Farming poduction automatizations and Philosophy ** 
+
 - 📫 How to reach me **jafabre95@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1GfQFlvUeOSD525Ay4eIC9N-GKbHJhMJ4_Vb70_vzqoA/edit?usp=sharing)
