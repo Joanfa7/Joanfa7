@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
-<h3 align="center">I'm a Full Stack SoftWare Engineer Student</h3>
+<h3 align="center">I'm a Full Stack Software Engineer Student</h3>
 
 - 🌱 I’m currently learning **React, 1155 tokens**
 
