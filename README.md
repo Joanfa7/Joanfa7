@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
-<h3 align="center">I'm a Full Stack Software Engineer Student</h3>
+<h3 align="center">I'm a Full Stack Software Engineer</h3>
 
-- 🌱 I’m currently learning **React, 1155 tokens**
+- 🌱 I’m currently learning **Django**
 
 - 🧑‍💻 I'm interested in **Web3, Machine Learning, Indoor Farming Poduction Automatizations and Philosophy** 
 
