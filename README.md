@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
 <h3 align="center">I'm a Full Stack Software Developer</h3>
 
-- 🌱 I’m currently learning **Django**
-
 - 🧑‍💻 I'm interested in **Web3, Machine Learning, Indoor Farming Poduction Automatizations and Philosophy** 
 
 - 📫 How to reach me **jafabre95@gmail.com**
-
-- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/11ie1zb7msb6jEy1jCeIgeiCdiNiHJG7Bvc2ToVzrePM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
