@@ -2,18 +2,14 @@
 <h3 align="center">Full Stack / AI Engineer — Browser Automation · Local-First AI · LLM Agents</h3>
 
 <p align="center">
-  📍 Puerto Rico &nbsp;·&nbsp; 📫 <a href="mailto:jafabre95@gmail.com">jafabre95@gmail.com</a> &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/joseafabre">LinkedIn</a>
+  📍 Puerto Rico &nbsp;·&nbsp; 📫 <a href="mailto:jafabre95@gmail.com">jafabre95@gmail.com</a> &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/jose-fabre-838394366/">LinkedIn</a>
 </p>
 
 ---
 
 ### 🚀 What I do
 
-- 🧠 **AI Engineer @ Rana, LLC** — building **local-first AI tools** that run entirely on-device: on-device RAG with local vector databases, an autonomous **research agent inside a browser extension**, and a decentralized knowledge base.
-- 🏠 **Full Stack Engineer @ Rivera Rubio, LLC (Tasadores PR)** — building a real-estate data platform: **Playwright (Python) scraper** for Puerto Rico government property-sales data → **PostgreSQL/PostGIS** → market analytics, on a **FastAPI** backend deployed to Heroku.
-- 🕸️ **Browser automation & scraping** — Playwright in **JavaScript and Python**, XML sitemap indexing, dynamic content, waits & retry logic.
-- ⚙️ **Resilient in-browser pipelines** — scaling browser-side processing with **IndexedDB + OPFS** to fetch, process, and persist **5,000+ links** with fault-tolerant recovery.
-- 🤖 **LLM agents** — orchestration with **LangGraph**, evaluation with **Comet**, RAG architectures, WebLLM.
+- 🧠 **Full Stack / AI Engineer @ Rana, LLC** — building **local-first AI tools and AI Infrastructure** 
 
 ### 🛠️ Tech Stack
 
@@ -64,10 +60,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joanfa7&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joanfa7&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
+
 
 ---
 
