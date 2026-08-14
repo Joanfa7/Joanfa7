@@ -58,8 +58,6 @@
 | ⚖️ **Legal Guidance Agent** | RAG prototype simplifying complex legal info for self-represented residents in PR consumer-affairs cases. | Vue.js · Firebase · RAG |
 | 🗳️ **Web3 Voting dApp** | Decentralized voting with Solidity smart contracts and a React + Web3.js frontend. | Solidity · Hardhat · React |
 
-### 📊 GitHub Stats
-
 
 
 ---
